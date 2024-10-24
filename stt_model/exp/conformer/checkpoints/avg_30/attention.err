@@ -1,0 +1,1 @@
+{"epoch": 0, "step": 0, "rtf": 3.774753563152497e-06, "cer": 0.054025474187617294, "dataset_hour": 9.990802777777777, "process_hour": 3.771281838417053e-05, "num_examples": 7176, "err_sum": 5671.0, "ref_len": 104969, "decode_method": "attention"}

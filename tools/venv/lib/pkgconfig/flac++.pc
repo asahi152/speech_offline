@@ -1,0 +1,11 @@
+prefix=/home/byc/projects/stt_offline/tools/venv
+exec_prefix=/home/byc/projects/stt_offline/tools/venv
+libdir=/home/byc/projects/stt_offline/tools/venv/lib
+includedir=/home/byc/projects/stt_offline/tools/venv/include
+
+Name: FLAC++
+Description: Free Lossless Audio Codec Library (C++ API)
+Version: 1.4.3
+Requires: flac
+Libs: -L${libdir} -lFLAC++
+Cflags: -I${includedir}

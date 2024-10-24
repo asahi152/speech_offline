@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "./PaddleSpeech/paddlespeech/s2t/models/wavlm/wavlm_",
+        "./PaddleSpeech/build/lib/paddlespeech/s2t/models/wavlm/wavlm_",
+        "./PaddleSpeech/build/lib",
+        "./PaddleSpeech/build/lib/paddlespeech/s2t/models/wavlm/wavlm_",
+        "./PaddleSpeech/paddlespeech/s2t/models/wavlm/wavlm_",
+        "./PaddleSpeech/paddlespeech/s2t/models/wavlm/wavlm_",
+        "./PaddleSpeech/paddlespeech/s2t/models/wavlm/wavlm_",
+        "./PaddleSpeech/build/lib/paddlespeech/s2t/models/wavlm/wavlm_"
+    ]
+}

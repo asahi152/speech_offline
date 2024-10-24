@@ -1,0 +1,10 @@
+*.pdparams filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+audio filter=lfs diff=lfs merge=lfs -text
+speech filter=lfs diff=lfs merge=lfs -text
+stt_model filter=lfs diff=lfs merge=lfs -text
+tools filter=lfs diff=lfs merge=lfs -text
+tts_models filter=lfs diff=lfs merge=lfs -text
+*.pdiparams filter=lfs diff=lfs merge=lfs -text
+*.so.3 filter=lfs diff=lfs merge=lfs -text
+*.pidparams filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,1 @@
+{"epoch": 0, "step": 0, "rtf": 5.293330900458942e-07, "cer": 0.04995760653145214, "dataset_hour": 9.990802777777777, "process_hour": 5.288462506400214e-06, "num_examples": 7176, "err_sum": 5244.0, "ref_len": 104969, "decode_method": "ctc_greedy_search"}

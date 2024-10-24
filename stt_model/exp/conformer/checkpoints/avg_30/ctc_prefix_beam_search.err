@@ -1,0 +1,1 @@
+{"epoch": 0, "step": 0, "rtf": 8.392351330047532e-05, "cer": 0.04989092017643304, "dataset_hour": 9.990802777777777, "process_hour": 0.0008384632698032592, "num_examples": 7176, "err_sum": 5237.0, "ref_len": 104969, "decode_method": "ctc_prefix_beam_search"}

@@ -1,0 +1,11 @@
+prefix=/home/byc/projects/stt_offline/tools/venv
+exec_prefix=/home/byc/projects/stt_offline/tools/venv
+libdir=/home/byc/projects/stt_offline/tools/venv/lib
+includedir=/home/byc/projects/stt_offline/tools/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.38.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
