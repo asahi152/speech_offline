@@ -5,6 +5,7 @@
 项目的语音识别通过部署snowboy的预训练模型进行语音唤醒，此外使用paddlespeech的模型进行语音转文字。
 语音合成同样使用paddlespeech的模型。
 
+项目新增了stt和tts程序使用了不同的模型
 ## 环境要求
 
 - Python 3.x
